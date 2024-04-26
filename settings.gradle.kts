@@ -21,4 +21,4 @@ buildCache {
   }
 }
 
-include(":lint")
+include(":lint", ":app")
